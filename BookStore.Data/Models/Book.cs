@@ -1,4 +1,4 @@
-﻿namespace StoreAPI.Models
+﻿namespace BookStore.Data.Models
 {
     public class Book
     {
